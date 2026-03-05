@@ -14,6 +14,13 @@
 - C / C++
 - Git
 - Linux
+  ## 🚀 Projects
+
+### ♟️ ChessCam
+Computer vision system that detects chess moves from a physical board using YOLO and image processing.
+
+Technologies: Python, OpenCV, YOLO, Computer Vision  
+Repository: https://github.com/amitush-tech/ChessCam
 
 ## 📚 Currently Learning
 - Advanced Signal Processing
