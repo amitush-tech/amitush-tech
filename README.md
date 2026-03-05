@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Amit Butbul 👋
 
-<!--
-**amitush-tech/amitush-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical & Computer Engineering student at the Technion
 
-Here are some ideas to get you started:
+💡 Interested in:
+- Signal Processing
+- Image Processing
+- VLSI
+- Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+- Python
+- MATLAB
+- C / C++
+- Git
+- Linux
+
+## 📚 Currently Learning
+- Advanced Signal Processing
+- Image Processing
+- VLSI Design
+
+## 📫 Contact
+- LinkedIn: (https://www.linkedin.com/in/amit-butbul/)
