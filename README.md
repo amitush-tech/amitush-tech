@@ -21,7 +21,17 @@ Computer vision system that detects chess moves from a physical board using YOLO
 
 Technologies: Python, OpenCV, YOLO, Computer Vision  
 Repository: https://github.com/amitush-tech/ChessCam
+## 🛠 Skills
 
+- Python
+- C / C++
+- MATLAB
+- OpenCV
+- Image Processing
+- Computer Vision
+- Algorithms
+- VLSI
+  
 ## 📚 Currently Learning
 - Advanced Signal Processing
 - Image Processing
